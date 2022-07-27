@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on blockchain technologies like, Solidity and Web3.js.
+- 🔭 I’m currently working on blockchain technologies using, Solidity and Web3.js.
 - 🌱 I’m currently learning the Proof-of-stake (PoS) mechanism that Ethereum will use after The Merge..
 - 👯 I’m looking to collaborate on Flash Loan Arbitrage Programmes.
 - 🤔 I’m looking for help connecting with like-minded developers.
