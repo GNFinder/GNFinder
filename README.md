@@ -3,9 +3,9 @@
 <h2>👨‍💻 Blockchain:</h2>
 
 - <b>Full Stack DApp (Solidity, React, JavaScript, Hardhat, and NFT Marketplace Components)</b>
-  - [NFT Whale Watcher](https://github.com/GNFinder/NFTWHALE) <b><i>(release date Aug 2022)</b></i>
-- <b>Gas Optimizations (Documented Leaning)</b>
-  - [Praciting DS & Algos in Python](https://github.com/byterocket/c4-common-issues/blob/main/0-Gas-Optimizations.md/#g001---dont-initialize-variables-with-default-value)
+  - [NFT Whale Watcher](https://github.com/GNFinder/NFTWhaleWatcher) <b><i>(release date Aug 2022)</b></i>
+- <b>Gas Optimization (Documented Leaning)</b>
+  - [Gas Optimization Issues](https://github.com/byterocket/c4-common-issues)
 
 <h2>:computer: CyberSecurtity:</h2>
 
