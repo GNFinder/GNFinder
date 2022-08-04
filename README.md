@@ -1,24 +1,27 @@
-<h1>Hi, I'm Jamal! <br/><a href="https://github.com/GNFinder">Senior Full Stack Blockchain Developer</a>,<a href="https://twitter.com/JamalForbes_">Blockchain Consultant</a>,<a href="www.linkedin.com/in/jamal-forbes/">Ethical Hacker</a></h1>
+<h1>Hi, I'm Jamal! <br/><a href="https://github.com/GNFinder"> Senior Full Stack Blockchain Developer</a> + <a href="www.linkedin.com/in/jamal-forbes/"> Hacker (ethical)</a></h1>
 
 <h2>👨‍💻 Blockchain:</h2>
 
-- <b>Full Stack DApp (Solidity contracts, React, JavaScript, Hardhat, and NFT Marketplace Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+- <b>Full Stack DApp (Solidity, React, JavaScript, Hardhat, and NFT Marketplace Components)</b>
+  - [NFT Whale Watcher](https://github.com/GNFinder/NFTWhaleWatcher) <b><i>(release date Aug 2022)</b></i>
 - <b>Data Structures and Gas Fee Explaination (Documented Leaning)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Praciting DS & Algos in Python](https://github.com/gas-fee-explained)
 
 <h2>:computer: CyberSecurtity:</h2>
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+
+- <b>Sofftware Deveolpment</b>
+  - Datastructures and Algorithms Demo (https://replit.com/@DanielSon16)</b></i>
 
 <h2> :eyes: Webpages:</h2>
 
-- <b>Full Stack DApp (React, JavaScript, Hardhat, and NFT Marketplace Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>Data Structures and Gas Fee Explaination (Documented Leaning)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>Voting Registration Page (HTML, CSS, JavaScript)</b>
+  - [Practicing logic in Javascript](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+- <b>The New Internet Explained (HTML, CSS, JavaScript)</b>
+  - [Praciting forms & styling](https://github.com/joshmadakor1/Algorithms-Practice)
   
 <h2> :page_with_curl: Certifications</h2>
+
+- [Ethical Hacking](https://www.udemy.com/certificate/UC-4879ce8e-a1a2-41a3-a6fc-e17ed314f78f/)
 
 <h2>📺 Popular YouTube Videos</h2>
 
