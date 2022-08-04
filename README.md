@@ -15,9 +15,9 @@
 <h2> :eyes: Webpages:</h2>
 
 - <b>Voting Registration Page (HTML, CSS, JavaScript)</b>
-  - [Practicing logic in Javascript](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+  - [Practicing logic in Javascript ](https://canyouvoteyet.danielson16.repl.co/)<b><i>(Potentially NSFW)</b></i>
 - <b>The New Internet Explained (HTML, CSS, JavaScript)</b>
-  - [Praciting forms & styling](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Praciting forms & styling](https://technology-films-and-media.danielson16.repl.co/)
   
 <h2> :page_with_curl: Certifications</h2>
 
