@@ -3,7 +3,7 @@
 <h2>👨‍💻 Blockchain:</h2>
 
 - <b>Full Stack DApp (Solidity, React, JavaScript, Hardhat, and NFT Marketplace Components)</b>
-  - [NFT Whale Watcher](https://github.com/GNFinder/NFTWhaleWatcher) <b><i>(release date Aug 2022)</b></i>
+  - [NFT Whale Watcher](https://github.com/GNFinder/NFTWHALE) <b><i>(release date Aug 2022)</b></i>
 - <b>Gas Optimization (Documented Leaning)</b>
   - [Gas Optimization Issues](https://github.com/byterocket/c4-common-issues)
 
