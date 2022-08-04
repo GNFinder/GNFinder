@@ -36,22 +36,8 @@
 [<img align="left" alt="JamalForbes | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="JamalForbes | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 
-[linkedin]: www.linkedin.com/in/jamal-forbes
+[linkedin]:https://www.linkedin.com/in/jamal-forbes/
 [twitter]: https://twitter.com/JamalForbes_
 [youtube]: https://www.youtube.com/c/jamalforbes
 
 <!--
-amal Forbes - </h1>
-
-<h2>Synopsis</h2>
-Hi there 👋
-
-- 🔭 I’m a visionary blockchain engineer. I use Solidty Smart Contract on EVM compatible blockchains
-
-- 🌱 I’m currently learning the Proof-of-stake (PoS) mechanism that Ethereum will use after The Merge..
-- 👯 I’m looking to collaborate on Flash Loan Arbitrage Programmes.
-- 🤔 I’m looking for help connecting with like-minded developers.
-- 💬 Ask me about web3.0 and hacking.
-- 📫 How to reach me: https://twitter.com/JamalForbes_
-- ⚡ Fun fact: I've been on stage with Prince Harry and Basement Jaxx.
-<br />
