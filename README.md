@@ -1,13 +1,22 @@
 <h1>Hi, I'm Jamal! <br/><a href="https://github.com/GNFinder">Blockchain Developer</a>, <a href="www.linkedin.com/in/jamal-forbes/">Ethical Hacker</a>, <a href="https://twitter.com/JamalForbes_">Professional</a></h1>
 
-<h2>👨‍💻 Blockchain Projects:</h2>
+<h2>👨‍💻 Blockchain:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
+- <b>Full Stack DApp (Solidity contracts, React, JavaScript, Hardhat, and NFT Marketplace Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+- <b>Data Structures and Gas Fee Explaination (Documented Leaning)</b>
+  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+
+<h2>:computer: CyberSecurtity:</h2>
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+
+<h2> :eyes: Webpages:</h2>
+
+- <b>Full Stack DApp (React, JavaScript, Hardhat, and NFT Marketplace Components)</b>
+  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+- <b>Data Structures and Gas Fee Explaination (Documented Leaning)</b>
+  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
   
 <h2> :page_with_curl: Certifications</h2>
 
@@ -43,61 +52,3 @@ Hi there 👋
 - 📫 How to reach me: https://twitter.com/JamalForbes_
 - ⚡ Fun fact: I've been on stage with Prince Harry and Basement Jaxx.
 <br />
-
-
-<h2>Languages and Utilities Used</h2>
-
-- <b>Solidity</b> 
-- <b>Python</b>
-- <b>JaveScript</b>
-- <b>HTML</b>
-- <b>CSS</b>
-- <b>REACT</b>
-- <b>Hardhat</b>
-- <b>Truffle</b>
-
-<h2>Environments Used </h2>
-
-- <b>Linux/Mac</b> (21H2)
- ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
-
-<h2>Program walk-through:</h2>
-
-<p align="center">
-Launch the utility: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-
-<!--
- ```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
-```
---!>
