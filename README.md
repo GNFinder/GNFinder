@@ -1,4 +1,4 @@
-<h1>Hi, I'm Jamal! <br/><a href="https://github.com/GNFinder"> Senior Full Stack Blockchain Developer</a> + <a href="www.linkedin.com/in/jamal-forbes/"> Penetration Tester </a></h1>
+<h1>Hi, I'm Jamal! <br/><a href="https://github.com/GNFinder"> Solidity Blockchain Developer</a> + <a href="www.linkedin.com/in/jamal-forbes/"> Penetration Tester </a></h1>
 
 <h2>👨‍💻 Blockchain:</h2>
 
