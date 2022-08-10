@@ -4,9 +4,11 @@
 
 - <b>Full Stack DApp (Solidity, React, JavaScript, Hardhat, and NFT Marketplace Components)</b>
   - [NFT Whale Watcher](https://github.com/GNFinder/NFTWHALE) <b><i>(developing contributions)</b></i>
+- <b>Solidity (developments)</b>
+  - (Under Construction)
 - <b>Gas Optimization (developing contributions)</b>
   - [Gas Optimization Issues](https://github.com/byterocket/c4-common-issues)
-
+  
 <h2>:computer: CyberSecurtity:</h2>
 
 - <b>Sofftware Deveolpment</b>
