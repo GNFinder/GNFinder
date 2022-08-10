@@ -1,4 +1,4 @@
-<h1>Hi, I'm Jamal! <br/><a href="https://github.com/GNFinder"> Solidity Blockchain Developer</a> + <a href="www.linkedin.com/in/jamal-forbes/"> Penetration Tester </a></h1>
+<h1>Hi, I'm Jamal Forbes! <br/><a href="https://github.com/GNFinder"> Solidity Blockchain Developer</a></h1>
 
 <h2>👨‍💻 Blockchain:</h2>
 
@@ -9,10 +9,10 @@
 - <b>Gas Optimization (developing contributions)</b>
   - [Gas Optimization Issues](https://github.com/byterocket/c4-common-issues)
   
-<h2>:computer: CyberSecurtity:</h2>
+<h2>:computer: Web2.0:</h2>
 
 - <b>Sofftware Deveolpment</b>
-  - Datastructures and Algorithms Demo (https://replit.com/@DanielSon16)</b></i>
+  - Apps, Datastructures and Algorithms: https://replit.com/@DanielSon16</b></i>
 
 <h2> :eyes: Webpages:</h2>
 
