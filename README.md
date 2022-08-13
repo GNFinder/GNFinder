@@ -15,7 +15,7 @@
 <h2> :eyes: Webpages:</h2>
 
 - <b>Voting Registration Page (HTML, CSS, JavaScript)</b>
-  - [JavaScript logic](https://canyouvoteyet.danielson16.repl.co/)<b><i>(Potentially NSFW)</b></i>
+  - [JavaScript logic ](https://canyouvoteyet.danielson16.repl.co/)<b><i>(Potentially NSFW)</b></i>
 - <b>The New Internet Explained (HTML, CSS, JavaScript)</b>
   - [HTML & CSS forms & styling](https://technology-films-and-media.danielson16.repl.co/)
   
@@ -25,6 +25,7 @@
 
 <h2> 🤳 Connect with me:</h2>
 
+
 [<img align="left" alt="JamalForbes | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="JamalForbes | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="JamalForbes | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
@@ -32,5 +33,4 @@
 [linkedin]:https://www.linkedin.com/in/jamal-forbes/
 [twitter]: https://twitter.com/JamalForbes_
 [youtube]: https://www.youtube.com/c/jamalforbes
-
 <!--
