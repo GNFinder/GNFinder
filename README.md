@@ -2,10 +2,10 @@
 
 <h2>👨‍💻 Blockchain:</h2>
 
-- <b>NFTWHALE (DApp) (React, JavaScript, Hardhat, and NFT Marketplace Components)</b>
-  - [NFTWhale](https://github.com/GNFinder/NFTWHALE)<b><i></b></i>
 - <b>Solidity (Data Structures and Algorithms)</b>
   - [Flash Loan Project](https://github.com/GNFinder/DyDx-Project)
+- <b>NFTWHALE (DApp) (React, JavaScript, Hardhat, and NFT Marketplace Components)</b>
+  - [NFTWhale](https://github.com/GNFinder/NFTWHALE)<b><i></b></i>
 
 <h2>:computer: Python, Javascript, HTML, CSS:</h2>
 
