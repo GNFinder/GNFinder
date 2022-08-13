@@ -3,13 +3,11 @@
 <h2>👨‍💻 Blockchain:</h2>
 
 - <b>Full Stack DApp (Solidity, React, JavaScript, Hardhat, and NFT Marketplace Components)</b>
-  - [NFTWhale](https://github.com/GNFinder/NFTWHALE) <b><i>(developing contributions)</b></i>
-- <b>Solidity (developments)</b>
-  - (Under Construction)
-- <b>Gas Optimization (developing contributions)</b>
-  - [Gas Optimization Issues](https://github.com/byterocket/c4-common-issues)
-  
-<h2>:computer: Web2.0:</h2>
+  - [NFTWhale](https://github.com/GNFinder/NFTWHALE)<b><i></b></i>
+- <b>Solidity (Data Structures and Algorithms)</b>
+  - [Flash Loan Project](https://github.com/GNFinder/DyDx-Project)
+
+<h2>:computer: Python, Javascript, HTML, CSS:</h2>
 
 - <b>Sofftware Deveolpment</b>
   - Apps, Datastructures and Algorithms: https://replit.com/@DanielSon16</b></i>
