@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Blockchain:</h2>
 
-- <b>Full Stack DApp (Solidity, React, JavaScript, Hardhat, and NFT Marketplace Components)</b>
+- <b>NFTWHALE (DApp) (React, JavaScript, Hardhat, and NFT Marketplace Components)</b>
   - [NFTWhale](https://github.com/GNFinder/NFTWHALE)<b><i></b></i>
 - <b>Solidity (Data Structures and Algorithms)</b>
   - [Flash Loan Project](https://github.com/GNFinder/DyDx-Project)
