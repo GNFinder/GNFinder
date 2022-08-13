@@ -15,7 +15,7 @@
 <h2> :eyes: Webpages:</h2>
 
 - <b>Voting Registration Page (HTML, CSS, JavaScript)</b>
-  - [Javascript logic](https://canyouvoteyet.danielson16.repl.co/)<b><i>(Potentially NSFW)</b></i>
+  - [JavaScript logic](https://canyouvoteyet.danielson16.repl.co/)<b><i>(Potentially NSFW)</b></i>
 - <b>The New Internet Explained (HTML, CSS, JavaScript)</b>
   - [HTML & CSS forms & styling](https://technology-films-and-media.danielson16.repl.co/)
   
