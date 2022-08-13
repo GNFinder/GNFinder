@@ -1,4 +1,4 @@
-<h1>Hi, I'm Jamal Forbes! <br/><a href="https://github.com/GNFinder"> Solidity Blockchain Developer</a></h1>
+<h1>Hi, I'm Jamal Forbes! <br/><a href="https://github.com/GNFinder"> Solidity Full Stack Developer</a></h1>
 
 <h2>👨‍💻 Blockchain:</h2>
 
