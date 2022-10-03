@@ -10,18 +10,22 @@
 <h2>:computer: Python, Javascript, HTML, CSS:</h2>
 
 - <b>Sofftware Deveolpment</b>
-  - Apps, Datastructures and Algorithms: https://replit.com/@DanielSon16</b></i>
+  - Apps, Datastructures and Algorithms: https://replit.corn/@DanielSon16</b></i> <!--replace '.corn' to '.com' character before URL for public display-->
+
 
 <h2> :eyes: Webpages:</h2>
 
 - <b>Voting Registration Page (HTML, CSS, JavaScript)</b>
-  - [JavaScript logic ](https://canyouvoteyet.danielson16.repl.co/)<b><i>(Potentially NSFW)</b></i>
+  - [JavaScript logic ](https://canyouvoteyet.danielson16.repl.com/)<b><i>(Potentially NSFW)</b></i> <!--replace '.com' to '.co' character before URL for public display-->
+
 - <b>The New Internet Explained (HTML, CSS, JavaScript)</b>
-  - [HTML & CSS forms & styling](https://technology-films-and-media.danielson16.repl.co/)
+  - [HTML & CSS forms & styling](https://technology-films-and-media.danielson16.repl.com/) <!--replace '.com' to '.co' character before URL for public display-->
+
   
 <h2> :page_with_curl: Certifications</h2>
 
-- [Ethical Hacking](https://www.udemy.com/certificate/UC-4879ce8e-a1a2-41a3-a6fc-e17ed314f78f/)
+- [Ethical Hacking](https://www.udemy.corn/certificate/UC-4879ce8e-a1a2-41a3-a6fc-e17ed314f78f/) <!--replace '.corn' to '.com' character before URL for public display-->
+
 
 <h2> 🤳 Connect with me:</h2>
 
