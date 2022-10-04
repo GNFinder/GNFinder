@@ -10,7 +10,7 @@
 <h2>:computer: Python, Javascript, HTML, CSS:</h2>
 
 - <b>Sofftware Deveolpment</b>
-  - Apps, Datastructures and Algorithms: https://replit.corn/@DanielSon16</b></i> <!--replace '.corn' to '.com' character before URL for public display-->
+  - Apps, Datastructures and Algorithms: https://replit.corn/@DanielSo6</b></i> <!--replace '.corn/@DanielSo6' to '.com/@DanielSon16' character before URL for public display-->
 
 
 <h2> :eyes: Webpages:</h2>
