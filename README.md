@@ -2,6 +2,8 @@
 
 <h2>👨‍💻 Blockchain:</h2>
 
+- <b>TheGraph Protocol (SubGraph and POC)</b>
+  - [Query Historical Blockchain Metadata](https://github.com/GNFinder/Curve.fi_historic_meta)
 - <b>Solidity (Data Structures and Algorithms)</b>
   - [Flash Loan Project](https://github.com/GNFinder/DyDx-Project)
 - <b>NFTWHALE (DApp) (React, JavaScript, Hardhat, and NFT Marketplace Components)</b>
