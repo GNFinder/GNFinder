@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Blockchain:</h2>
 
-- <b>SOLIDITY (Data Structures and Algorithms)</b>
+- <b>SOLIDITY (Data Structures, Algorithms, Commits and Reveals)</b>
   - [Rock Paper Scissors Game](https://github.com/GNFinder/RockPaperScissors_DApp)
 - <b>NFTWHALE (DApp) (React, JavaScript, Hardhat, and NFT Marketplace Components)</b>
   - [NFTWhale](https://github.com/GNFinder/NFTWHALE)<b><i></b></i>
