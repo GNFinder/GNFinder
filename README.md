@@ -20,8 +20,8 @@
 - <b>Voting Registration Page (HTML, CSS, JavaScript)</b>
   - [JavaScript logic ](https://canyouvoteyet.danielson16.repl.co/)<b><i>(Potentially NSFW)</b></i> <!--replace '.com' to '.co' character before URL for public display-->
 
-- <b>The New Internet Explained (HTML, CSS, JavaScript)</b>
-  - [HTML & CSS forms & styling](https://technology-films-and-media.danielson16.repl.co/) <!--replace '.com' to '.co' character before URL for public display-->
+- <b>A fantastic tracker for Hacking Vulnerabilities (HTML, CSS, JavaScript)</b>
+  - [HTML & CSS forms & styling](https://beautiful-choux-7378c6.netlify.app/) <!--replace '.com' to '.co' character before URL for public display-->
 
   
 <h2> :page_with_curl: Certifications</h2>
