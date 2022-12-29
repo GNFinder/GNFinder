@@ -17,12 +17,11 @@
 
 <h2> :eyes: Webpages:</h2>
 
-- <b>A Voting Registration Page (HTML, CSS, JavaScript)</b>
-  - [Voting Web Page](https://canyouvoteyet.danielson16.repl.co/)<b><i></b></i> <!--replace '.com' to '.co' character before URL for public display-->
-
 - <b>A Fantastic Tracker for Hacking Vulnerabilities (HTML, CSS, JavaScript)</b>
   - [Bug Tracker App](https://beautiful-choux-7378c6.netlify.app/) <!--replace '.com' to '.co' character before URL for public display-->
 
+- <b>A Voting Registration Page (HTML, CSS, JavaScript)</b>
+  - [Voting Web Page](https://canyouvoteyet.danielson16.repl.co/)<b><i></b></i> <!--replace '.com' to '.co' character before URL for public display-->
   
 <h2> :page_with_curl: Certifications</h2>
 
