@@ -4,10 +4,10 @@
 
 - <b>SOLIDITY (Data Structures, Algorithms, Commits and Reveals)</b>
   - [Rock Paper Scissors Game](https://github.com/GNFinder/RockPaperScissors_DApp)
-- <b>NFTWHALE (DApp) (React, JavaScript, Hardhat, and NFT Marketplace Components)</b>
-  - [NFTWhale](https://github.com/GNFinder/NFTWHALE)<b><i></b></i>
-- <b>TheGraph Protocol (SubGraph and POC) (👀 upon request)</b>
-  - [Query Historical Blockchain Metadata](https://github.com/GNFinder/Curve.fi_historic_meta)
+- <b>NFTWHALE (DApp) (React, JSON, Hardhat, and NFT Marketplace Components) (👀 upon request)</b>
+  - [Query Historical Blockchain Metadata](https://github.com/GNFinder/NFTWHALE)<b><i></b></i>
+- <b>GNF NFT (OpenSea and POC)</b>
+  - [NFT Collection](https://github.com/GNFinder/gnf_nft)
 
 <h2>:computer: Python, Javascript, HTML, CSS:</h2>
 
