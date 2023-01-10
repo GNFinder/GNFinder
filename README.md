@@ -7,7 +7,7 @@
 - <b>NFTWHALE (DApp) (React, JSON, Hardhat, and NFT Marketplace Components) (👀 upon request)</b>
   - [Query Historical Blockchain Metadata](https://github.com/GNFinder/NFTWHALE)<b><i></b></i>
 - <b>GNF NFT (OpenSea and POC)</b>
-  - [NFT Collection](https://github.com/GNFinder/gnf_nft)
+  - [NFT Collection](https://github.com/GNFinder/gnf_nft/tree/certi)
 
 <h2>:computer: Python, Javascript, HTML, CSS:</h2>
 
