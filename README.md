@@ -2,11 +2,11 @@
 
 <h2>👨‍💻 Blockchain:</h2>
 
-- <b>SOLIDITY (Data Structures, Algorithms, Commits and Reveals)</b>
+- <b>SOLIDITY (Data Structures, Algorithms, Commits and Reveals, React)</b>
   - [Rock Paper Scissors Game](https://github.com/GNFinder/RockPaperScissors_DApp)
 - <b>NFTWHALE (DApp) (React, JSON, Hardhat, and NFT Marketplace Components) (👀 upon request)</b>
   - [Query Historical Blockchain Metadata](https://github.com/GNFinder/NFTWHALE)<b><i></b></i>
-- <b>GNF NFT (OpenSea and POC)</b>
+- <b>GNF NFT (OpenSea and POC, HardHat, Node,js)</b>
   - [NFT Collection](https://github.com/GNFinder/gnf_nft/tree/certi)
 
 <h2>:computer: Python, Javascript, HTML, CSS:</h2>
@@ -17,11 +17,12 @@
 
 <h2> :eyes: Webpages:</h2>
 
+- <b>Decentraloco - The Home Of Talent (React, HTML, CSS, JavaScript, Google API)</b>
+  - [Building The Future
+Of Web3 & Gaming](https://decentraloco.xyz/)<b><i></b></i> <!--replace '.com' to '.co' character before URL for public display-->
+
 - <b>A Fantastic Tracker for Hacking Vulnerabilities (HTML, CSS, JavaScript)</b>
   - [Bug Tracker App](https://beautiful-choux-7378c6.netlify.app/) <!--replace '.com' to '.co' character before URL for public display-->
-
-- <b>A Voting Registration Page (HTML, CSS, JavaScript)</b>
-  - [Voting Web Page](https://canyouvoteyet.danielson16.repl.co/)<b><i></b></i> <!--replace '.com' to '.co' character before URL for public display-->
   
 <h2> :page_with_curl: Certifications</h2>
 
