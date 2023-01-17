@@ -2,12 +2,12 @@
 
 <h2>👨‍💻 Blockchain:</h2>
 
+- <b>GNF NFT (OpenSea and POC, HardHat, Node,js)</b>
+  - [NFT Collection](https://github.com/GNFinder/gnf_nft/tree/certi)
 - <b>SOLIDITY (Data Structures, Algorithms, Commits and Reveals, React)</b>
   - [Rock Paper Scissors Game](https://github.com/GNFinder/RockPaperScissors_DApp)
 - <b>NFTWHALE (DApp) (React, JSON, Hardhat, and NFT Marketplace Components) (👀 upon request)</b>
   - [Query Historical Blockchain Metadata](https://github.com/GNFinder/NFTWHALE)<b><i></b></i>
-- <b>GNF NFT (OpenSea and POC, HardHat, Node,js)</b>
-  - [NFT Collection](https://github.com/GNFinder/gnf_nft/tree/certi)
 
 <h2>:computer: Python, Javascript, HTML, CSS:</h2>
 
