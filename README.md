@@ -3,9 +3,11 @@
 <h2>👨‍💻 Blockchain:</h2>
 
 - <b>GNF NFT (OpenSea and POC, HardHat, Node,js)</b>
-  - [NFT Collection](https://github.com/GNFinder/gnf_nft/tree/certi)
+  - [NFT Collection - Backend](https://github.com/GNFinder/gnf_nft/tree/certi) 
+  - [Marketplace📑](https://testnets.opensea.io/collection/gnfindernft-v2)
 - <b>SOLIDITY (Data Structures, Algorithms, Commits and Reveals, React)</b>
-  - [Rock Paper Scissors Game](https://github.com/GNFinder/RockPaperScissors_DApp)
+  - [Rock Paper Scissors Game - Backend](https://github.com/GNFinder/RockPaperScissors_DApp) 
+  - [DApp📑](https://peppy-kheer-47a6b7.netlify.app/)
 - <b>NFTWHALE (DApp) (React, JSON, Hardhat, and NFT Marketplace Components) (👀 upon request)</b>
   - [Query Historical Blockchain Metadata](https://github.com/GNFinder/NFTWHALE)<b><i></b></i>
 
