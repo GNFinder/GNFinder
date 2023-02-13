@@ -4,7 +4,7 @@
 
 - <b>GNF NFT (OpenSea and POC, HardHat, Node,js)</b>
   - [NFT Collection - Backend](https://github.com/GNFinder/gnf_nft/tree/certi) 
-  - [DApp📑](https://github.com/GNFinder/Digital_Nomad_Dapp)
+  - [DApp📑](https://mellow-cobbler-0d4217.netlify.app/)
 - <b>SOLIDITY (Data Structures, Algorithms, Commits and Reveals, React)</b>
   - [Rock Paper Scissors Game - Backend](https://github.com/GNFinder/RockPaperScissors_DApp) 
   - [DApp📑](https://peppy-kheer-47a6b7.netlify.app/)
