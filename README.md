@@ -8,23 +8,24 @@
 - <b>SOLIDITY (Data Structures, Algorithms, Commits and Reveals, React)</b>
   - [Rock Paper Scissors Game - Backend](https://github.com/GNFinder/RockPaperScissors_DApp) 
   - [DApp📑](https://peppy-kheer-47a6b7.netlify.app/)
-- <b>NFTWHALE (DApp) (React, JSON, Hardhat, and NFT Marketplace Components) (👀 upon request)</b>
-  - [Query Historical Blockchain Metadata](https://github.com/GNFinder/NFTWHALE)<b><i></b></i>
-
-<h2>:computer: Python, Javascript, HTML, CSS:</h2>
-
-- <b>Sofftware Deveolpment</b>
-  - Apps, Datastructures and Algorithms: https://replit.com/@DanielSon16</b></i> <!--replace '.corn/@DanielSo6' to '.com/@DanielSon16' character before URL for public display-->
-
-
-<h2> :eyes: Webpages:</h2>
-
-- <b>Decentraloco - The Home Of Talent (React, HTML, CSS, JavaScript, Google API)</b>
+- <b>DECENTRALOCO - The Home Of Talent (React, HTML, CSS, JavaScript, Google API)</b>
   - [Building The Future
 Of Web3 & Gaming](https://decentraloco.xyz/)<b><i></b></i> <!--replace '.com' to '.co' character before URL for public display-->
 
+
+<h2>:computer: Python, Javascript, HTML, CSS:</h2>
+
+- <b>Software Development</b>
+
+  - Apps, Datastructures and Algorithms: https://replit.com/@DanielSon16</b></i> <!--replace '.corn/@DanielSo6' to '.com/@DanielSon16' character before URL for public display-->
+
+<h2> :eyes: Projects:</h2>
+
 - <b>A Fantastic Tracker for Hacking Vulnerabilities (HTML, CSS, JavaScript)</b>
   - [Bug Tracker App](https://beautiful-choux-7378c6.netlify.app/) <!--replace '.com' to '.co' character before URL for public display-->
+
+- <b>NFT Marketplace (DApp) (React, JSON, Hardhat, and NFT Marketplace Components) (👀 upon request)</b>
+  - [Query Historical Blockchain Metadata](https://github.com/GNFinder/NFTWHALE)<b><i></b></i>
   
 <h2> :page_with_curl: Certifications</h2>
 
