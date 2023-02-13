@@ -17,7 +17,7 @@ Of Web3 & Gaming](https://decentraloco.xyz/)<b><i></b></i> <!--replace '.com' to
 
 - <b>Software Development</b>
 
-  - Apps, Datastructures and Algorithms: https://replit.com/@DanielSon16</b></i> <!--replace '.corn/@DanielSo6' to '.com/@DanielSon16' character before URL for public display-->
+  - Data structures and Algorithms: https://replit.com/@DanielSon16</b></i> <!--replace '.corn/@DanielSo6' to '.com/@DanielSon16' character before URL for public display-->
 
 <h2> :eyes: Projects:</h2>
 
