@@ -3,7 +3,7 @@
 <h2>👨‍💻 Blockchain:</h2>
 
 - <b>GNF NFT (OpenSea and POC, HardHat, Node,js)</b>
-  - [NFT Collection - Backend](https://github.com/GNFinder/gnf_nft/tree/certi) 
+  - [NFT Collection - Backend](https://github.com/GNFinder/Digital_Nomad_Dapp) 
   - [DApp📑](https://mellow-cobbler-0d4217.netlify.app/)
 - <b>SOLIDITY (Data Structures, Algorithms, Commits and Reveals, React)</b>
   - [Rock Paper Scissors Game - Backend](https://github.com/GNFinder/RockPaperScissors_DApp) 
